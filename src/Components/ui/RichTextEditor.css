@@ -1,0 +1,14 @@
+.dark .ql-toolbar.ql-snow,
+.dark .ql-container.ql-snow {
+  border-color: gray;
+}
+
+.dark .quill *,
+.dark .ql-editor.ql-blank::before {
+  stroke: white;
+  color: white;
+}
+
+.dark .ql-picker-options {
+  background: #121827;
+}
